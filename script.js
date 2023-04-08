@@ -33,3 +33,5 @@ function playGame(playerSelection, computerSelection) {
 } 
 
 playGame();
+
+// TODO Make scoring system
